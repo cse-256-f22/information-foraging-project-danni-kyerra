@@ -96,6 +96,16 @@ main h4 a {
     background-position: center;
 }
 
+ul {
+    padding-left: 50px
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
 .submit-button {
     display: inline-block;
     cursor: pointer;
