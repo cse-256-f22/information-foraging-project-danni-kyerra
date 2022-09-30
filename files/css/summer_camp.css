@@ -2,8 +2,3 @@
 .image-container {
     background-image: url("https://nurseryschool.wustl.edu/files/2015/03/group-holi.jpg");
 }
-h1 {
-    color: brown !important;
-    font-size: 32px !important;
-    font-weight: bold !important;
-}

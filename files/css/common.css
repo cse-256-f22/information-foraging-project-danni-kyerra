@@ -40,7 +40,7 @@ main h1 {
     font-weight: 300;
     letter-spacing: 0.4px;
     line-height: 48px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 main h2 {
@@ -52,10 +52,16 @@ main h2 {
 }
 
 main h3 {
+    color: #a51417;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+
+main .intro {
     color: rgb(85, 85, 85);
-    font-size: 27px;
-    font-weight: 300;
-    line-height: 37px;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 main p a,
@@ -64,6 +70,16 @@ main h2 a,
 main h3 a,
 main h4 a {
     color: #a51417;
+    font-weight: 400;
+}
+
+main h4 a {
+    font-size: 20px;
+}
+
+.col {
+    float: left;
+    width: 50%;
 }
 
 #naeyc-logo {
