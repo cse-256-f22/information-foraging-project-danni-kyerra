@@ -7,6 +7,15 @@
     color: #bbb;
 }
 
+.main-img {
+    height: 200px;
+    overflow: hidden;
+}
+.info {
+    color:blue;
+    font-size: 24px;
+}
+
 #first-article-second-text {
     font-weight: lighter;
     line-height: 1.333;
